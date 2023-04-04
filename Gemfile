@@ -8,8 +8,8 @@ source 'https://rubygems.org'
 
 ruby '2.4.1'
 
-gem 'middleman', '~> 4.2'
-gem 'middleman-autoprefixer', '~> 2.8'
-gem 'middleman-gh-pages', '~> 0.3'
-gem 'middleman-livereload', '~> 3.4'
-gem 'rake', '~> 12.3'
+gem 'middleman', '~> 4.4', '>= 4.4.0'
+gem 'middleman-autoprefixer', '~> 2.8', '>= 2.8.0'
+gem 'middleman-gh-pages', '~> 0.3', '>= 0.3.1'
+gem 'middleman-livereload', '~> 3.4', '>= 3.4.6'
+gem 'rake', '~> 12.3', '>= 12.3.3'
